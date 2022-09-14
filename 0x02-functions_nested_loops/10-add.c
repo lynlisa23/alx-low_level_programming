@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 
 /**
 *add -> adds two number
